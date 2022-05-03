@@ -152,7 +152,7 @@ section .title::after{
     background: #fff;
     padding: 0px 5px 0px 5px;
     font-size: 20px;
-    color: blue;
+    color: #225780;
     transform: translateX(-50%);
 }
 
@@ -195,7 +195,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: blue;
+    color: #225780;
     font-size: 32px;
 }
 .right{
@@ -256,7 +256,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: blue;
+    color: #225780;
     font-weight: 600;
 }
 .services .serv-content .card .text{
@@ -330,7 +330,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: blue;
+    background: #225780;
 }
 .skills-content .right .html::before{
     width: 50%;
