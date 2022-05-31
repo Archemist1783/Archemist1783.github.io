@@ -9,7 +9,6 @@
     max-width: 1300px;
     padding: 0 80px;
     margin: 300px 0px 0px 50px;
-    margin-top: 30px;
 }
 .max .text-1{
     margin-bottom: 20px;
@@ -94,6 +93,7 @@
 }
 .max .home-content{
     margin: -100px 0px auto -40px;
+    margin-top: 50px;
 }
 .home .home-content .text-1{
     font-size: 27px;
@@ -184,6 +184,9 @@ section .title::after{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+.about .max{
+    margin-left: 50px;
 }
 .about .about-content .left{
     width: 45%;
